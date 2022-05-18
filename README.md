@@ -1,5 +1,10 @@
 # test-fintech
 
+# No se logro
+
+a) Splash
+b) Mapa con la ubicación actual del dispositivo.
+
 Se logro lo siguiente
 
 Se hizo el consumo del api que se proporciono
